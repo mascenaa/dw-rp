@@ -1,0 +1,9 @@
+{
+	"resource_pack_name": "DW",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"bridge_villager_egg": {
+			"textures": "textures/items/villager/egg_villager"
+		}
+	}
+}

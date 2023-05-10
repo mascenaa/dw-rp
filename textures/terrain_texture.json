@@ -1,0 +1,29 @@
+{
+	"num_mip_levels": 4,
+	"padding": 8,
+	"resource_pack_name": "DW",
+	"texture_name": "atlas.terrain",
+	"texture_data": {
+		"bridge_hardened_clay": {
+			"textures": "textures/blocks/hardened_clay"
+		},
+		"bridge_stripped_warped_stem_side": {
+			"textures": "textures/blocks/stripped_warped_stem_side"
+		},
+		"bridge_stripped_warped_stem_top": {
+			"textures": "textures/blocks/stripped_warped_stem_top"
+		},
+		"bridge_warped_stem_side": {
+			"textures": "textures/blocks/warped_stem_side"
+		},
+		"bridge_warped_stem_top": {
+			"textures": "textures/blocks/warped_stem_top"
+		},
+		"bridge_warped_wart_block": {
+			"textures": "textures/blocks/warped_wart_block"
+		},
+		"bridge_donut": {
+			"textures": "textures/blocks/donut.png"
+		}
+	}
+}

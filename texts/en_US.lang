@@ -1,0 +1,9 @@
+tile.bridge:hardened_clay.name=hardened_clay
+tile.bridge:stripped_warped_stem_side.name=stripped_warped_stem_side
+tile.bridge:stripped_warped_stem_top.name=stripped_warped_stem_top
+tile.bridge:warped_stem_side.name=warped_stem_side
+tile.bridge:warped_stem_top.name=warped_stem_top
+tile.bridge:warped_wart_block.name=warped_wart_block
+item.spawn_egg.entity.bridge:villager.name=Spawn villager
+entity.bridge:villager.name=villager
+tile.bridge:donut.name=Donut Oficial
