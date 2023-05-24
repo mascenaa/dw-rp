@@ -16,24 +16,44 @@
 					"haggle.yes": "mob.villager.yes",
 					"haggle.no": "mob.villager.no"
 				}
-			}
-		}
-	},
-	"individual_event_sounds": {
-		"events": {
-			"bow" : {
-				"pitch" : [ 0.830, 1.250 ],
-				"sound" : "tile.piston.in",
-				"volume" : 1.0
-			 },
-			"bow.hit": {
+			},
+			"bridge:mooshroom": {
+				"volume": 1,
 				"pitch": [
-					1.090,
-					1.30
+					0.8,
+					1.2
 				],
-				"sound": "random.explode",
-				"volume": 2.0
-			}
+				"events": {
+					"ambient": "mob.mooshroom.say",
+					"hurt": "mob.mooshroom.hurt",
+					"death": "mob.mooshroom.hurt",
+					"step": {
+						"sound": "mob.mooshroom.step",
+						"volume": 0.15,
+						"pitch": 1
+					}
+				}
+			},
+			"mentinha" : {
+				"events" : {
+				   "ambient.pollinate" : {
+					  "sound" : "mob.bee.pollinate",
+					  "volume" : 0.850
+				   },
+				   "death" : {
+					  "pitch" : [ 0.90, 1.10 ],
+					  "sound" : "mob.bee.death",
+					  "volume" : 0.60
+				   },
+				   "hurt" : {
+					  "pitch" : [ 0.90, 1.10 ],
+					  "sound" : "mob.bee.hurt",
+					  "volume" : 0.60
+				   }
+				},
+				"pitch" : 1.0,
+				"volume" : 0.60
+			 }
 		}
 	}
 }

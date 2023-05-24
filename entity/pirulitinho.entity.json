@@ -1,0 +1,22 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "bridge:pirulitinho",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/pirulitinho"
+			},
+			"geometry": {
+				"default": "geometry.pirulitinho"
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"base_color": "#fa1e58",
+				"overlay_color": "#000000"
+			}
+		}
+	}
+}

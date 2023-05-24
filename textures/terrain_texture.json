@@ -4,8 +4,11 @@
 	"resource_pack_name": "DW",
 	"texture_name": "atlas.terrain",
 	"texture_data": {
-		"bridge_hardened_clay": {
-			"textures": "textures/blocks/hardened_clay"
+		"bridge_iron_ore": {
+			"textures": "textures/blocks/iron_ore"
+		},
+		"bridge_diamond_ore": {
+			"textures": "textures/blocks/diamond_ore"
 		},
 		"bridge_stripped_warped_stem_side": {
 			"textures": "textures/blocks/stripped_warped_stem_side"
@@ -23,7 +26,25 @@
 			"textures": "textures/blocks/warped_wart_block"
 		},
 		"bridge_donut": {
-			"textures": "textures/blocks/donut.png"
+			"textures": "textures/blocks/donut"
+		},
+		"bridge_brigadeirinho": {
+			"textures": "textures/blocks/brigadeirinho"
+		},
+		"bridge_brigadeiro": {
+			"textures": "textures/blocks/brigadeiro"
+		},
+		"bridge_bolinho": {
+			"textures": "textures/blocks/bolinho"
+		},
+		"bridge_tortadelimao": {
+			"textures": "textures/blocks/tortadelimao"
+		},
+		"bridge_cupcake": {
+			"textures": "textures/blocks/cupcake"
+		},
+		"bridge_cupcakezinho": {
+			"textures": "textures/blocks/cupcakezinho"
 		}
 	}
 }

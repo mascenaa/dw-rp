@@ -4,9 +4,13 @@
 		1,
 		0
 	],
-	"bridge:hardened_clay": {
+	"bridge:diamond_ore": {
 		"sound": "stone",
-		"textures": "bridge_hardened_clay"
+		"textures": "bridge_diamond_ore"
+	},
+	"bridge:iron_ore": {
+		"sound": "stone",
+		"textures": "bridge_iron_ore"
 	},
 	"bridge:stripped_warped_stem_side": {
 		"sound": "stone",
@@ -29,6 +33,31 @@
 		"textures": "bridge_warped_wart_block"
 	},
 	"bridge:donut": {
-		"sound": "stone"
+		"sound": "stone",
+		"textures": "bridge_donut"
+	},
+	"bridge:brigadeirinho": {
+		"sound": "stone",
+		"textures": "bridge_brigadeirinho"
+	},
+	"bridge:brigadeiro": {
+		"sound": "stone",
+		"textures": "bridge_brigadeiro"
+	},
+	"bridge:bolinho": {
+		"sound": "stone",
+		"textures": "bridge_bolinho"
+	},
+	"bridge:tortadelimao": {
+		"sound": "stone",
+		"textures": "bridge_tortadelimao"
+	},
+	"bridge:cupcake": {
+		"sound": "stone",
+		"textures": "bridge_cupcake"
+	},
+	"bridge:cupcakezinho": {
+		"sound": "stone",
+		"textures": "bridge_cupcakezinho"
 	}
 }
