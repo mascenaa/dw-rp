@@ -16,7 +16,7 @@
 
 ## Descrição do Projeto
 
-O mundo em que o grupo pensou seria um onde o jogador se encontraria desbravando diversas salas, onde em cada uma há um sonho (ou, pesadelo) que ele deve enfrentar para seguir adiante na sua jornada. Sendo elas: Resolver enigmas, enquanto realiza parkour, cruzar um labirinto de obstáculos enquanto escapando de personagens de desenho, acertar todos os alvos de um jogo de tiro ao alvo cercado por alienígenas cowboys, enfrentar em um coliseu dois humanos transformados em zumbis para sair ileso e cruzar um rio de chocolate quente pulando por doces em um mundo feito justamente de doces.
+O mundo em que o grupo pensou seria um onde o jogador se encontraria desbravando diversas salas, onde em cada uma há um sonho (ou, pesadelo) que ele deve enfrentar para seguir adiante na sua jornada. Sendo elas: Resolver enigmas, enquanto realiza parkour, enfrentar em um coliseu dois humanos transformados em zumbis para sair ileso e cruzar um rio de chocolate quente pulando por doces em um mundo feito justamente de doces.
 Caso o jogador perca em qualquer um dos pesadelos, ele acordará dos sonhos e deverá navegar por todos novamente para encontrar um final feliz no seu mundo de sonhos.
 
 O objetivo do grupo é criar uma experiência divertida para o jogador onde ele possa realizar vários tipos de mini jogos com temáticas bem diferentes que o entretenham ao longo da sua jornada entre as bizarrices do mundo dos sonhos.
